@@ -97,3 +97,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://ultra-triceratops-384c4.netlify.app'
